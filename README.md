@@ -27,6 +27,9 @@ sales-performance-dashboard/
 │   └── dashboard.png
 
 
+
+
+
 🔍 Key Insights from the Sales Data
 📈 1. Sales Performance Trends
 Sales show clear fluctuations over time, with certain months performing significantly better than others.
