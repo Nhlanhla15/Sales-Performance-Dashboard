@@ -48,6 +48,7 @@ There is a trade-off between volume and profitability.
 👉 Companies must balance discount strategy cautiously.
 
 💡 BUSINESS RECOMMENDATIONS
+
 Reduce excessive discounting to improve profit margins.
 Focus marketing efforts on high-performing products.
 Target profitable customer segments.
