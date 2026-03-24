@@ -21,12 +21,17 @@ Skills used
 📈 1. Sales Performance Trends
 Sales show clear fluctuations over time, with certain months performing significantly better than others.
 This clearly indicates seasonality and demand patterns that the business can leverage.
+
 👉 Businesses make use dashboards to track trends and forecast performance over time.
+
+
 
 💰 2. Profitability Analysis
 Some products generate high sales but low profit margins.
 High discounts are associated with reduced profitability.
+
 👉 Discounts can increase sales volume but often reduce overall profit.
+
 
 🛍️ 3. Product Performance
 A small number of products contribute to the majority of revenue.
