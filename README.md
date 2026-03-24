@@ -7,27 +7,13 @@ This project analyzes sales, profit, and customer trends using a retail dataset.
 Tools Used
 Excel
 
-
-Key Insights
-High discounts negatively impact profitability
-Certain product categories drive most revenue
-Sales trends vary significantly across regions
-
-
-📁 Files Included
-Excel Dashboard
-Dataset
-< Sales-Dashboard.xlsx = "https://github.com/user-attachments/assets/6a665a20-9b07-4987-bdd7-77c26aa20b7e" />
-
-sales-performance-dashboard/
-│
-├── README.md
-├── sales_dashboard.xlsx
-├── images/
-│   └── dashboard.png
-
-
-
+Skills used 
+1. Data Cleaning & Preparation
+2. Data Analysis Techniques
+3. Pivot Tables
+4. Excel Formulas & Functions
+5. Data Visualization
+6. Dashboard Creation
 
 
 🔍 Key Insights from the Sales Data
@@ -71,3 +57,14 @@ Use historical trends to forecast future sales.
 
 Conclusion
 This project demonstrates how data can be transformed into actionable insights using data analysis and visualization tools.
+
+
+< Sales-Dashboard.xlsx = "https://github.com/user-attachments/assets/6a665a20-9b07-4987-bdd7-77c26aa20b7e" />
+
+sales-performance-dashboard/
+│
+├── README.md
+├── sales_dashboard.xlsx
+├── images/
+│   └── dashboard.png
+
